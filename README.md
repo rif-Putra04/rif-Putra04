@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arif Putra Dermawan</h1>
-<h3 align="center">A passionate WEB DEVELOPER and DIGITAL MARKETING from Indonesia</h3>
+<h3 align="center">WEB DEVELOPER and DIGITAL MARKETING </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rif-putra04&label=Profile%20views&color=0e75b6&style=flat" alt="rif-putra04" /> </p>
 
@@ -14,8 +14,6 @@
 - 📝 I regularly write articles on [https://github.com/rif-Putra04/rif-Putra04](https://github.com/rif-Putra04/rif-Putra04)
 
 - 📫 How to reach me **arifputra04dermawan@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/rif-Putra04/rif-Putra04](https://github.com/rif-Putra04/rif-Putra04)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
